@@ -1,13 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C2FF,100:7F00FF&text=Pranav%20Bhosale&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Flutter+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Products+That+Matter"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Full+Stack+Developer;AI+Enthusiast;Machine+Learning+Enthusiast;Building+Products+That+Matter"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranav Bhosale</h1>
 
 <h3 align="center">
-AI & Full Stack Developer | Flutter Developer | Machine Learning Enthusiast
+Flutter Developer | Full Stack Developer | AI Enthusiast
 </h3>
 
 <p align="center">
@@ -20,7 +20,7 @@ Building scalable, intelligent and real-world software products 🚀
 
 ```yaml
 Name: Pranav Bhosale
-Role: AI & Full Stack Developer
+Role: Flutter Developer | Full Stack Developer | AI Enthusiast
 College: VIT Pune
 Branch: Computer Science (AI)
 Location: Pune, India
@@ -33,9 +33,24 @@ Interests:
   - Machine Learning
 
 Current Focus:
-  - Abhaya AI
-  - Health Card Platform
-  - Competitive Programming
+  - Abhaya AI (Women Safety Ecosystem)
+  - Sahyadri Health Platform
+  - Data Structures & Algorithms
+  - Machine Learning
+```
+
+---
+
+## 📌 Quick Facts
+
+```yaml
+💻 Languages: C++, Python, JavaScript, Dart
+📱 Mobile: Flutter
+🌐 Backend: Node.js, Express.js
+🗄️ Database: MySQL, Firebase
+🤖 AI/ML: TensorFlow, Scikit-Learn
+🏆 Hackathons: India Innovates 2026 Finalist
+🔥 LeetCode: 100+ Problems Solved
 ```
 
 ---
@@ -44,6 +59,10 @@ Current Focus:
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=bpranav371-ship-it&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bpranav371-ship-it&theme=tokyonight"/>
 </p>
 
 ---
@@ -94,7 +113,7 @@ Current Focus:
 ## 💻 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins"/>
+<img src="https://leetcard.jacoblin.cool/pranav_bhosale_1179?theme=dark&font=Poppins"/>
 </p>
 
 ---
@@ -125,11 +144,11 @@ Current Focus:
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/pranav-bhosale-003261373/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE_LINK">
+<a href="https://leetcode.com/u/pranav_bhosale_1179/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
