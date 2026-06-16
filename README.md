@@ -1,184 +1,148 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Pranav%20Bhosale&fontSize=55&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C2FF,100:7F00FF&text=Pranav%20Bhosale&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Developer;AI+Enthusiast;Hackathon+Finalist;Problem+Solver"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Flutter+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Products+That+Matter"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranav Bhosale</h1>
 
 <h3 align="center">
-Mobile App Developer | Full Stack Developer | AI Enthusiast
+AI & Full Stack Developer | Flutter Developer | Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-Building scalable applications with Flutter, React, Node.js and AI 
+Building scalable, intelligent and real-world software products 🚀
 </p>
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech CSE (AI) Student at VIT Pune
+```yaml
+Name: Pranav Bhosale
+Role: AI & Full Stack Developer
+College: VIT Pune
+Branch: Computer Science (AI)
+Location: Pune, India
 
-📱 Passionate Mobile App Developer
+Interests:
+  - Artificial Intelligence
+  - Flutter Development
+  - Full Stack Development
+  - System Design
+  - Machine Learning
 
-💻 Full Stack Developer
+Current Focus:
+  - Abhaya AI
+  - Health Card Platform
+  - Competitive Programming
+```
 
-🤖 AI & Machine Learning Enthusiast
+---
 
-🏆 India Innovates 2026 Finalist
+## 🏆 GitHub Trophies
 
-🔥 Solved 100+ LeetCode Problems
-
-🌱 Currently Building:
-
-- Abhaya AI (Women Safety Ecosystem)
-- Health Card Management Platform
-- Full Stack Furniture E-Commerce Platform
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=bpranav371-ship-it&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### AI / ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ScikitLearn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,dart,flutter,react,nodejs,express,mysql,firebase,git,github,vscode"/>
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 🛡️ Abhaya AI
-
-AI-powered Women Safety Ecosystem
-
-✔ SOS Trigger System
-
-✔ Audio Distress Detection
-
-✔ Community Safety Feed
-
-✔ Live Risk Zones
-
-✔ Real-Time Location Sharing
+| Project | Description |
+|----------|-------------|
+| 🛡️ **Abhaya AI** | AI-powered women safety ecosystem with SOS alerts, distress detection and live risk zones |
+| 🛒 **Maison Furniture** | Full stack furniture e-commerce platform with authentication, cart, wishlist and admin dashboard |
+| 🎓 **Placement Predictor** | ML-based placement prediction system using feature engineering and classification models |
+| 📚 **ReadEase AI** | AI-powered reading and learning assistant built with modern app development technologies |
 
 ---
 
-### 🛒 Maison Furniture
+## 🏅 Achievements
 
-Full Stack E-Commerce Platform
-
-✔ Authentication
-
-✔ Cart & Wishlist
-
-✔ Admin Dashboard
-
-✔ Seller Dashboard
-
-✔ Product Management
+| Achievement | Details |
+|------------|---------|
+| 🥇 India Innovates 2026 Finalist | Built an innovative hybrid system to prevent unfair practices |
+| 💻 LeetCode Progress | Solved 100+ coding problems |
+| 📱 App Development | Built multiple Flutter and full stack applications |
+| 🤖 AI Projects | Worked on ML-based and AI-powered systems |
 
 ---
 
-### 🎓 Student Placement Prediction System
-
-Machine Learning based placement prediction using:
-
-✔ Random Forest
-
-✔ Logistic Regression
-
-✔ Feature Engineering
-
-✔ Cross Validation
-
----
-
-## 🏆 Achievements
-
-🥇 India Innovates 2026 Finalist
-
-💻 100+ LeetCode Problems Solved
-
-📱 Built Multiple Full Stack & Flutter Applications
-
-🚀 Passionate about Scalable Software Development
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bpranav371-ship-it&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bpranav371-ship-it&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpranav371-ship-it&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpranav371-ship-it&theme=tokyonight"/>
 </p>
 
+---
+
+## 💻 LeetCode Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpranav371-ship-it&layout=compact&theme=tokyonight"/>
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins"/>
 </p>
 
 ---
 
-## 🔥 Current Focus
+## 🐍 Contribution Snake
 
-📱 Flutter Development
+<p align="center">
+<img src="https://raw.githubusercontent.com/bpranav371-ship-it/bpranav371-ship-it/output/github-contribution-grid-snake.svg"/>
+</p>
 
-🌐 Full Stack Development
+---
 
-🤖 Artificial Intelligence
+## 🎯 2026 Goals
 
-☁️ Scalable Systems
-
-📊 Data Structures & Algorithms
+- 🚀 Reach 500+ LeetCode Problems
+- 📱 Publish Flutter Apps
+- 🤖 Build Production AI Applications
+- 🌐 Master System Design
+- ☁️ Learn Cloud & DevOps
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: pranav.bhosale241@vit.edu
+<p align="center">
 
-🔗 LinkedIn: YOUR_LINKEDIN_LINK
+<a href="mailto:pranav.bhosale241@vit.edu">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💻 LeetCode: YOUR_LEETCODE_LINK
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=bpranav371-ship-it&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=bpranav371-ship-it&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 <h3 align="center">
 ⭐ Building technology that solves real-world problems ⭐
 </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C2FF,100:7F00FF"/>
