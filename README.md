@@ -11,12 +11,12 @@ Mobile App Developer | Full Stack Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-Building scalable applications with Flutter, React, Node.js and AI 🚀
+Building scalable applications with Flutter, React, Node.js and AI 
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 🎓 B.Tech CSE (AI) Student at VIT Pune
 
