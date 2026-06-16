@@ -11,7 +11,7 @@ Flutter Developer | Full Stack Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-Building scalable, intelligent and real-world software products 🚀
+Building scalable, intelligent and real-world software products 
 </p>
 
 ---
@@ -75,7 +75,7 @@ Current Focus:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description |
 |----------|-------------|
@@ -128,11 +128,11 @@ Current Focus:
 
 ## 🎯 2026 Goals
 
-- 🚀 Reach 500+ LeetCode Problems
-- 📱 Publish Flutter Apps
-- 🤖 Build Production AI Applications
-- 🌐 Master System Design
-- ☁️ Learn Cloud & DevOps
+-  Reach 500+ LeetCode Problems
+-  Publish Flutter Apps
+-  Build Production AI Applications
+-  Master System Design
+-  Learn Cloud & DevOps
 
 ---
 
